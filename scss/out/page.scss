@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(../../image/1081832.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    color: white;
+}
+
+.container1{
+    background-color: #131212f1;
+    width: 450px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.topLogo{
+    width: 180px;
+}
+
+.paragraph{
+    margin: 8px 0px;
+}
+
+.btnSend{
+    color: #ff0043;
+    border: 1px solid #ff0043;
+
+    &hover{
+        background-color: #ff0043;
+        color: white;
+    }
+}
+
+.fotter{
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
