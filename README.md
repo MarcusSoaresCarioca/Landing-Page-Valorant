@@ -2,7 +2,7 @@
  
 > Valorant
 
-![preview](github/preview.png)
+![preview](image/preview.png)
 
 Projeto construído com base de Bootstrap ensinado pelo "OneBitCode".
 
