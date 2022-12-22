@@ -6,7 +6,7 @@
 
 Projeto construído com base de Bootstrap ensinado pelo "OneBitCode".
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://marcussoarescarioca.github.io/Landing-Page-Valorant/)
 
 ## Tecnologias
 
